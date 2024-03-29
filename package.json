@@ -1,0 +1,48 @@
+{
+  "name": "consequunturitaque",
+  "version": "1.0.0",
+  "description": "Parse Ethereum EIP831 Standard URI Format",
+  "keywords": [
+    "ethereum",
+    "cum",
+    "doloribus",
+    "sit"
+  ],
+  "author": "JaylanCrist",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "directories": {
+    "lib": "dist",
+    "test": "test"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarinaLedner/consequunturitaque.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarinaLedner/consequunturitaque.git/issues"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.4.0",
+    "eslint-loader": "^2.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "@babel/cli": "7.0.0",
+    "@babel/core": "7.0.0",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/register": "7.0.0",
+    "babel-loader": "^8.0.2",
+    "chai": "^4.1.2",
+    "mocha": "5.2.0",
+    "webpack": "^4.18.0",
+    "webpack-cli": "^3.1.0"
+  },
+  "homepage": "https://github.com/MarinaLedner/consequunturitaque.git"
+}
